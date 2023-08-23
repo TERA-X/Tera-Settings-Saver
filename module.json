@@ -1,6 +1,6 @@
 {
     "disableAutoUpdate": false,
-    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-settings-saver/master/"],
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/Tera-Settings-Saver/master/"],
     "author": "Kasea/ KYGAS",
     "name": "tera-settings-saver",
     "options": {

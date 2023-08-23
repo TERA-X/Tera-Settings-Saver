@@ -1,7 +1,6 @@
 {
     "files": {
         "README.md": "eee9f89ee371a99ad642f158afcdaef164f22877a92200dca87e0cf6c9d3d007",
-        "data/KYGAS-2800.json": "e5ee393fb249b50941b02241bf682a56ad60acc2a2659f67e7b4056701cd3f1d",
         "index.js": "426371ffb2cc6658dcb3ab358ecfb40ba493b0c5621558c132ed4851f3655dad",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "9d00120e9770994a25e7b37b9c0ff32e8eb9359094cda6ce72729861f1f7c5b1"
