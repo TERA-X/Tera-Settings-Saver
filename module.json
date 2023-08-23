@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-settings-saver/master/"],
+    "author": "Kasea/ KYGAS",
+    "name": "tera-settings-saver",
+    "options": {
+        "guiName": "Setting saver"
+    },
+    "description": "Saves your settings"
+}
